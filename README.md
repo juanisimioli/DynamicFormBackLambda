@@ -8,7 +8,7 @@ Front End React App was deployed to AWS Amplify.
 
 ### 
 
-All the code from this application was made by Juan Ignacio Simioli.
+All the code from this application was written by Juan Ignacio Simioli.
 Any question or comment, just contact me: juanisimioli@gmail.com
 
 ### 
