@@ -12,7 +12,7 @@ All the code from this application was written by Juan Ignacio Simioli.
 Any question or comment, just contact me: juanisimioli@gmail.com
 
 ### 
-This Function Lambda uses these two layers:<br>
+This Function Lambda uses these two AWS Lambda Layers:<br>
 MailSender -> https://github.com/juanisimioli/DynamicFormBackLayerMailsender<br>
 MultiPartFormData Parser -> https://github.com/juanisimioli/DynamicFormBackLayerFormParser
 
